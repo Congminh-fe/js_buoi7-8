@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 18px;
+}
+.body_background{
+    background: #96C291;
+}
+
+.form-group input{
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    
+}
+.themso-btn{
+    margin-top: 20px;
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+    background: #FFE5E5;
+}
+.themso-btn:hover{
+    background: #FFDBAA;
+}
+.collapsed-btn{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    background: #F3FDE8;
+    
+}  
+.collapsed-btn:hover{
+    background-color: #A8DF8E;
+    
+}
+button.btn.btn-link{
+    color: #96C291;
+    font-size: 25px;
+    text-decoration: none;
+} 
+.result-bg{
+    background-color: #FFDBAA;
+    height: 50px;
+    border-radius: 20px;
+    
+}
